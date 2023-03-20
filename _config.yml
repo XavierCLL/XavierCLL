@@ -1,8 +1,8 @@
 # Example Site settings
-title: anne lee steele # name of the site
-author: anne lee steele # name of site's author
-email: aleesteele@gmail.com # email of site's author
-url: https://aleesteele.com # root address of the site
+title: Xavier Llano # name of the site
+author: Xavier Llano # name of site's author
+email: xavier.corredor.llano@gmail.com # email of site's author
+url: https://xaviercll.github.io # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
 
@@ -10,11 +10,10 @@ description: > # description of the site (multiple lines allowed)
 
 header_pages:
  - index.md
- - about.md
  - blog.md
- - contact.md
+ - about.md
 
-footer: 'made with peace in mind, by <a href="twitter.com/aleesteele">@aleesteele</a>'
+footer: 'made with love'
 
 style: light # dark (default) or light
 #listen_for_clients_preferred_style: true # true or false (default)
